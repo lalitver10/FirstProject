@@ -14,5 +14,7 @@ public class App
 		System.out.println("Hii Good Evening");
 		System.out.println("Hii Good AfterNoon");
 		System.out.println("Hii Good Evening");
+		System.out.println("Hii Good Night");
+		System.out.println("Hii Good Morning");
 	}
 }

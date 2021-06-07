@@ -1,0 +1,22 @@
+pipeline {
+    agent any 
+    stages {
+        stage('Compile Stage') { 
+            steps {
+             echo 'Lalit Verma'
+            }
+        }
+        stage('Test') { 
+            steps {
+            echo 'good bye'
+               }
+            }
+        }
+        stage('Deploy') { 
+            steps {
+            echo 'good night'
+               } 
+            }
+        }
+    }
+}
