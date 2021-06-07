@@ -12,5 +12,8 @@ public class App
 	private static void callDemo() {
 		System.out.println("Hii Good AfterNoon");
 		System.out.println("Hii Good Evening");
+
+		System.out.println("Hii Good Night");
+		System.out.println("Hii Good Morning");
 	}
 }
